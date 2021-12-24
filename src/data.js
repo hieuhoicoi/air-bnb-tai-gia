@@ -37,5 +37,6 @@ export default [
         },
         location: "Norway",
         numLeft: 3,
-    }
+    },
+    
 ]
